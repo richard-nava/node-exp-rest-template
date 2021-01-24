@@ -11,7 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "consolidate": "^0.16.0",
     "express": "^4.17.1",
+    "requirejs": "^2.3.6",
+    "swig": "^1.4.2",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
